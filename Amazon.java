@@ -76,7 +76,7 @@ public class Amazon {
 	     
 	     // Close Browser
 	        Thread.sleep(15000);
-	        driver.close();
+	        driver.close():
 	     
 	}
 
